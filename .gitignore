@@ -1,6 +1,12 @@
-.Rproj.user
-.Rhistory
+# R session
 .RData
-.Ruserdata
+.Rhistory
+.Rproj.user/
+
+# renv
+renv/library/
+renv/staging/
+
+# Data
 data/*
 !data/.gitkeep
